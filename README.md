@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0cfe644e-7c52-4d23-8d6c-d16bd40e1ec4)Надстройка для Excel
+Надстройка для Excel
 
 Функции:
 
