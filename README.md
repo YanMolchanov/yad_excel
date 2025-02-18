@@ -1,4 +1,4 @@
-Надстройка для Excel
+![image](https://github.com/user-attachments/assets/0cfe644e-7c52-4d23-8d6c-d16bd40e1ec4)Надстройка для Excel
 
 Функции:
 
@@ -14,3 +14,4 @@
 Инструменты:
 
 	•	VBA
+![image](https://github.com/user-attachments/assets/42666489-2b40-4b94-86e6-1d375400d068)
